@@ -1,0 +1,3 @@
+[submodule "minidj"]
+	path = minidj
+	url = https://github.com/alibozorgkhan/minidj.git
